@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://raw.githubusercontent.com/AdityakumarDA/your-repo/main/1729939288687.jpeg" alt="Aditya Kumar - Data Analyst Banner" style="width:100%;"/>
+<img src="https://raw.githubusercontent.com/AdityakumarDA/AdityakumarDA/main/Banner.jpeg" alt="Aditya Kumar - Data Analyst Banner" style="width:100%;"/>
 
 <h1 align="center">Hi, I'm Aditya Kumar 👋</h1>
 
