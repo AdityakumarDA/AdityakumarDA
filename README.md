@@ -20,20 +20,20 @@ Currently upgrading my expertise for the **Microsoft PL-300 Certification** and 
 
 ## 🧰 Tools & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-Intermediate-11557C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-Intermediate-0096DB?logo=alteryx&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-Advanced-9A9A9A?logo=google-analytics&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alteryx-0056A0?style=for-the-badge&logo=alteryx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
-
 ---
 
 ## 📊 Highlight Project
