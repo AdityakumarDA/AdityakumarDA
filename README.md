@@ -54,12 +54,13 @@ Interactive dashboard built using Tableau showcasing global content trends and g
 ## 🔎 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityakumarda&show_icons=true&theme=tokyonight" alt="Aditya Kumar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityakumarda&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
