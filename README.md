@@ -48,9 +48,8 @@ Interactive dashboard built using Tableau showcasing global content trends and g
 - ✅ **Data Analytics Certification** – IIM Skills  
 - ✅ **Career Essentials in Data Analysis** – Microsoft x LinkedIn  
 - 🎯 **Preparing for Microsoft PL-300 | Power BI Data Analyst Associate**
-
----
 <!--
+---
 ## 🔎 GitHub Stats (Dark Theme)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityakumarda&show_icons=true&theme=tokyonight" alt="Aditya Kumar's GitHub Stats" />
