@@ -32,6 +32,8 @@ Currently upgrading my expertise for the **Microsoft PL-300 Certification** and 
   <img src="https://img.shields.io/badge/Alteryx-Intermediate-0096DB?logo=alteryx&logoColor=white" />
   <img src="https://img.shields.io/badge/R-Intermediate-276DC3?logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/Statistics-Advanced-9A9A9A?logo=google-analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-Intermediate-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-Intermediate-007ACC?logo=visual-studio-code&logoColor=white" />
 </p>
 ---
 
