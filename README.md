@@ -21,11 +21,11 @@ Currently upgrading my expertise for the **Microsoft PL-300 Certification** and 
 ## 🧰 Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Intermediate-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-Advanced-013243?logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-Advanced-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Intermediate-11557C?logo=python&logoColor=white" />
