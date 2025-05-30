@@ -39,7 +39,7 @@ Currently upgrading my expertise for the **Microsoft PL-300 Certification** and 
 
 ## 📊 Highlight Project
 
-**🌍 [Global Netflix Insights: Trends & Genres](https://public.tableau.com/app/profile/aditya.kumar6665/viz/GlobalNetflixInsightsTrendsGenres/Visualizations)**  
+**🌍 [Global Netflix Insights: Trends & Genres]([https://public.tableau.com/app/profile/aditya.kumar6665/viz/GlobalNetflixInsightsTrendsGenres/Visualizations](https://github.com/AdityakumarDA/Netflix-Insights-Trends-Genres-Analysis/tree/main))**  
 Interactive dashboard built using Tableau showcasing global content trends and genre performance over time.
 
 ---
