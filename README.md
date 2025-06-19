@@ -5,7 +5,7 @@
 
 <p align="center">
   <strong>Aspiring Data Analyst | Power BI • Python • Excel • Tableau</strong><br/>
-  🎯 Preparing for Microsoft PL-300 | Power BI Data Analyst Associate
+  ✅ Microsoft Certified: PL-300 Power BI Data Analyst Associate
 </p>
 
 ---
@@ -14,7 +14,7 @@
 
 I'm an aspiring **Data Analyst** who turns data into decisions. Skilled in tools like **Excel, Power BI, SQL, Python, Tableau, Alteryx, and R**, I love crafting compelling stories from raw datasets and visualizing insights that matter.
 
-Currently upgrading my expertise for the **Microsoft PL-300 Certification** and working on building my portfolio with real-world dashboards and case studies.
+Recently earned the **Microsoft Certified: PL-300 Power BI Data Analyst Associate** certification and currently building my portfolio with real-world dashboards and case studies.
 
 ---
 
@@ -48,7 +48,8 @@ Interactive dashboard built using Tableau showcasing global content trends and g
 
 - ✅ **Data Analytics Certification** – IIM Skills  
 - ✅ **Career Essentials in Data Analysis** – Microsoft x LinkedIn  
-- 🎯 **Preparing for Microsoft PL-300 | Power BI Data Analyst Associate**
+- ✅ **Microsoft Certified: PL-300 Power BI Data Analyst Associate**
+
 <!--
 ---
 ## 🔎 GitHub Stats (Dark Theme)
