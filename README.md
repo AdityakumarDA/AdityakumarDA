@@ -39,8 +39,8 @@ Recently earned the **Microsoft Certified: PL-300 Power BI Data Analyst Associat
 
 ## 📊 Highlight Project
 
-**🌍 [Netflix Insights: Trends & Genres Analysis](https://github.com/AdityakumarDA/Netflix-Insights-Trends-Genres-Analysis/tree/main)**  
-Interactive dashboard built using Tableau showcasing global content trends and genre performance over time.
+**[Adword Data Analysis](https://github.com/AdityakumarDA/Adword-Data-Analysis)**  
+An end-to-end AdWords data analysis project using Excel, Python, SQL, and Power BI. Covers data cleaning, processing, and visualizing ad performance through interactive dashboards and a complete analysis pipeline.
 
 ---
 
