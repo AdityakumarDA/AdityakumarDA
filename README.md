@@ -15,7 +15,7 @@
 
 I'm an aspiring **Data Analyst** who turns data into decisions. Skilled in tools like **Excel, Power BI, SQL, Python, Tableau, Alteryx, and R**, I love crafting compelling stories from raw datasets and visualizing insights that matter.
 
-Recently earned the **Microsoft Certified: PL-300 Power BI Data Analyst Associate** certification and currently building my portfolio with real-world dashboards and case studies.
+Recently earned the  **DP-600 Fabric Analytics Engineer Associate** & **PL-300 Power BI Data Analyst Associate** certification and currently building my portfolio with real-world dashboards and case studies.
 
 ---
 
@@ -24,6 +24,7 @@ Recently earned the **Microsoft Certified: PL-300 Power BI Data Analyst Associat
 <p>
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-Intermediate-0078D4?logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
