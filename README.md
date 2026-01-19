@@ -6,6 +6,7 @@
 <p align="center">
   <strong>Aspiring Data Analyst | Power BI • Python • Excel • Tableau</strong><br/>
   ✅ Microsoft Certified: PL-300 Power BI Data Analyst Associate
+  ✅ Microsoft Certified: DP-600 Fabric Analytics Engineer Associate
 </p>
 
 ---
