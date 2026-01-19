@@ -69,7 +69,7 @@ An end-to-end AdWords data analysis project using Excel, Python, SQL, and Power 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adityakumarda)
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/aditya.kumar6665/vizzes)
-- 🌐 **Portfolio**: Coming Soon
+- 🌐 [Portfolio](https://adityakumarda.github.io/portfolio/)
 - 📧 **Email**: datadrivenaditya@gmail.com
 
 ---
