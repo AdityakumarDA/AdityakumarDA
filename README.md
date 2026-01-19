@@ -50,6 +50,7 @@ An end-to-end AdWords data analysis project using Excel, Python, SQL, and Power 
 - ✅ **Data Analytics Certification** – IIM Skills  
 - ✅ **Career Essentials in Data Analysis** – Microsoft x LinkedIn  
 - ✅ **Microsoft Certified: PL-300 Power BI Data Analyst Associate**
+- ✅ **Microsoft Certified: DP-600 Fabric Analytics Engineer Associate**
 
 <!--
 ---
